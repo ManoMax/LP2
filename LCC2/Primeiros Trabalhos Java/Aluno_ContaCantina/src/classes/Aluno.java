@@ -2,6 +2,8 @@
 * Laboratório de Programação 2 - Lab 1
 *
 * @author Gabriel Max Vieira Matos - 117110060
+*
+* @EuclidesRamos passou por aqui :), graças ao Hacktoberfest
 */
 
 package classes;
